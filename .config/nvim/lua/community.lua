@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.utility.hover-nvim" },
+  { import = "astrocommunity.ai.kurama622-llm-nvim" },
   --  { import = "astrocommunity.completion.codeium-nvim" },
   -- UI
   { import = "astrocommunity.colorscheme.rose-pine" },
