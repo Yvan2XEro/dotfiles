@@ -139,7 +139,7 @@ alias ls="eza"
 alias l="eza -l --icons --git -a"
 alias lt="eza --tree --level=2 --long --icons --git"
 alias new-pg="/home/yvan/Workspaces/scripts/new-pg.sh"
-alias cat="bat"
+# alias cat="bat"
 alias inv='nvim $(fzf --preview="bat --color=always {}")'
 export FZF_DEFAULT_COMMAND='find . -type d \( -name node_modules -o -name .git \) -prune -o -type f -print'
 #End Shell Alises
